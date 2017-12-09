@@ -182,4 +182,4 @@ Using Godot in C++
 
 Just for your information, Godot also allows you to develop your project directly in C++ by using its API, which is not possible with Unity at the moment. As an example, you can consider Godot Engine's editor as a "game" written in C++ using Godot API. 
 
-If you are interested in using Godot in C++, you may want to start reading the `Developing in C++ <_developing.html>`_ page.
+If you are interested in using Godot in C++, you may want to start reading the `Developing in C++ <../../development/cpp>`_ page.
